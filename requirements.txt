@@ -1,0 +1,11 @@
+adium-theme-ubuntu==0.3.4
+Django==1.8.5
+ecdsa==0.13
+paramiko==1.16.0
+pycrypto==2.6.1
+pytz==2017.2
+six==1.10.0
+unity-lens-photos==1.0
+vboxapi==1.0
+virtualenv==15.0.1
+whitenoise==2.0
